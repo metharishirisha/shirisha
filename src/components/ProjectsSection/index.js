@@ -26,7 +26,7 @@ const projectsList = [
     id:4,
     name:"Jobby App",
     imgUrl: "jobby.png",
-    liveUrl:"https://jobbyApp31.ccbp.tech",
+    liveUrl:"https://JobbyApp81s.ccbp.tech",
     githubUrl:"https://github.com/metharishirisha/Jobby-App",
   },
   {
